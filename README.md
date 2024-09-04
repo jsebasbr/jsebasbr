@@ -1,0 +1,7 @@
+- 👋 Hi, I'm Sebastian and this is my GitHub repository
+- 💻 I’m interested in Phyton, SQL, Power BI and Data Analytics 
+- 💾 I’m currently learning more about Machine Learning 
+- 🤝 I’m looking to collaborate on projects about data analytics
+- 📫 You can reach me at this email: jsebas.br@gmail.com
+- 🌟 I'll be gald to be part of an amusing project
+- 😅 Fun fact: My favorite meal is Pasta Cacio e Pepe!
